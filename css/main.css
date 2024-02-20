@@ -43,7 +43,6 @@
 }
 .jumbotron p {
   margin-top: 10px;
-  text-align: left;
   font-weight: 300;
 }
 @media (max-width: 767px) {
